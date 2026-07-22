@@ -5,15 +5,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF6FA5&center=true&vCenter=true&width=500&lines=Automatizando+procesos%2C+un+pipeline+a+la+vez;Infraestructura+como+c%C3%B3digo+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 <br/>
@@ -25,7 +17,7 @@
   <a href="mailto:tatianaagudelo443@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=tagudelo-ASD3&style=for-the-badge&color=7CA9E0&label=VISITAS" />
+  <img src="https://komarev.com/ghpvc/?username=tagudelo-ASD3&style=for-the-badge&color=FF6FA5&label=VISITAS" />
 </p>
 
 ---
@@ -83,20 +75,7 @@ Desarrolladora de Software DevOps con experiencia en **automatización de proces
 
 ---
 
-### 🥇 Trofeos de GitHub
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tagudelo-ASD3&theme=algolia&no-frame=true&row=1&column=6&margin-w=15" />
-</p>
-
----
-
 ### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tagudelo-ASD3&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tagudelo-ASD3&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tagudelo-ASD3&theme=tokyonight&hide_border=true" alt="streak stats"/>
@@ -113,7 +92,7 @@ Desarrolladora de Software DevOps con experiencia en **automatización de proces
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/tagudelo-ASD3/tagudelo-ASD3/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 <p align="center"><i>Gracias por visitar mi perfil ✨</i></p>
