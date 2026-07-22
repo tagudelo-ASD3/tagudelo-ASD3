@@ -5,17 +5,17 @@
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF6FA5&center=true&vCenter=true&width=500&lines=Automatizando+procesos%2C+un+pipeline+a+la+vez;Infraestructura+como+c%C3%B3digo+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/tagudelo-ASD3/tagudelo-ASD3/main/assets/terminal-banner.svg" alt="terminal" width="640"/>
 </p>
 
 <br/>
 
 <p align="center">
   <a href="https://linkedin.com/in/tatiana-agudelo-pe%C3%B1a-7aa885253" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-FF6FA5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:tatianaagudelo443@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-FF6FA5?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=tagudelo-ASD3&style=for-the-badge&color=FF6FA5&label=VISITAS" />
 </p>
