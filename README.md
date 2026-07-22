@@ -1,8 +1,22 @@
-<h1 align="center">¡Hola! Soy Tatiana Agudelo Peña 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6FA5&height=180&section=header&text=Tatiana%20Agudelo%20Pe%C3%B1a&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desarrolladora%20de%20Software%20DevOps&descAlignY=55&descSize=22&stroke=ffffff&strokeWidth=1" width="100%"/>
+</p>
+
+<br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7CA9E0&center=true&vCenter=true&width=600&lines=Desarrolladora+de+Software+DevOps;AWS+%7C+Terraform+%7C+Jenkins+%7C+Docker;Python+%2B+FastAPI+%7C+Angular;Automatizando+procesos%2C+un+pipeline+a+la+vez" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+</p>
+
+<br/>
 
 <p align="center">
   <a href="https://linkedin.com/in/tatiana-agudelo-pe%C3%B1a-7aa885253" target="_blank">
@@ -11,6 +25,7 @@
   <a href="mailto:tatianaagudelo443@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=tagudelo-ASD3&style=for-the-badge&color=7CA9E0&label=VISITAS" />
 </p>
 
 ---
@@ -50,12 +65,29 @@ Desarrolladora de Software DevOps con experiencia en **automatización de proces
   </tr>
 </table>
 
+---
 
 ### 🏆 Certificaciones
 
 - ✅ Generative AI Associate — *CertJoin*
 - ✅ DevOps on AWS and Project Management — *Coursera*
 - ✅ Análisis de Bases de Datos Avanzado — *Universidad ECCI*
+
+---
+
+### 🌐 Inglés
+
+`B1 — Intermedio`
+<br/>
+![70%](https://progress-bar.xyz/70/?title=B1&width=300&color=7CA9E0)
+
+---
+
+### 🥇 Trofeos de GitHub
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tagudelo-ASD3&theme=algolia&no-frame=true&row=1&column=6&margin-w=15" />
+</p>
 
 ---
 
@@ -72,8 +104,20 @@ Desarrolladora de Software DevOps con experiencia en **automatización de proces
 
 ---
 
+### 📈 Gráfico de actividad
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tagudelo-ASD3&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</p>
+
+---
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 <p align="center"><i>Gracias por visitar mi perfil ✨</i></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6FA5&height=100&section=footer" width="100%"/>
+</p>
